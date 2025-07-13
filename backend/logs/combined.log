@@ -1,0 +1,7 @@
+{"level":"info","message":"Server đang chạy trên http://localhost:5000","service":"quan-li-phong-tro","timestamp":"2025-07-13 15:55:57"}
+{"level":"info","message":"Môi trường: development","service":"quan-li-phong-tro","timestamp":"2025-07-13 15:55:57"}
+{"level":"info","message":"Múi giờ: Asia/Ho_Chi_Minh","service":"quan-li-phong-tro","timestamp":"2025-07-13 15:55:57"}
+{"level":"info","message":"Thời gian khóa truy cập: 2:00 - 5:00","service":"quan-li-phong-tro","timestamp":"2025-07-13 15:55:57"}
+{"level":"info","message":"[ACCESS] GET /health - IP: ::1 - Time: 15:56:15 13/07/2025 - User-Agent: curl/8.5.0","service":"quan-li-phong-tro","timestamp":"2025-07-13 15:56:15"}
+{"level":"info","message":"Truy cập được phép vào lúc 15:56:15 13/07/2025 - IP: ::1","service":"quan-li-phong-tro","timestamp":"2025-07-13 15:56:15"}
+{"code":"ETIMEOUT","hostname":"_mongodb._tcp.cluster0.xsitc4s.mongodb.net","level":"error","message":"Lỗi kết nối MongoDB: querySrv ETIMEOUT _mongodb._tcp.cluster0.xsitc4s.mongodb.net","service":"quan-li-phong-tro","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.xsitc4s.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:291:17)","syscall":"querySrv","timestamp":"2025-07-13 15:56:19"}
