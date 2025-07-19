@@ -80,3 +80,7 @@ Sao lưu dữ liệu định kỳ dưới dạng file .zip.
 ## License
 
 Private project - All rights reserved.
+
+
+##Lưu ý (đặc biệt cân nhắc)
+Do mình sử dụng mô hình Claude 4 nên code sẽ toàn bot, bạn có thể cân nhắc fork cái repo này hay không, mình không chịu hoàn toàn trách nhiệm nếu bạn fork từ của người khác (biết đâu họ làm gì thì sao?), còn mình khẳng định 100% code sạch (bởi AI =))) nên bạn hãy cứ kiểm tra lại nhé!
